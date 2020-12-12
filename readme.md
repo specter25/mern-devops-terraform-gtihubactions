@@ -1,8 +1,8 @@
-#COMPLEX_APP
+COMPLEX_APP
 
--MERN
--Terraform
--Docker
--Make
--Cloudfare
--GCP
+- MERN
+- Terraform
+- Docker
+- Make
+- Cloudfare
+- GCP
